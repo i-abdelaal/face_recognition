@@ -1,0 +1,1 @@
+this project connected to a node server which contains a face detection api.. the whole full stack (React, Node, Express, PostgreSQL) is deployed on Heroku
